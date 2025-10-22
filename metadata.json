@@ -1,0 +1,5 @@
+{
+  "name": "Autonomous Trading Strategy Generator",
+  "description": "An AI-powered application that generates and backtests trading strategies using an autonomous agentic ecosystem concept. Users can define their risk tolerance and trading style to receive tailored strategies, including Pine Script for TradingView integration.",
+  "requestFramePermissions": []
+}
